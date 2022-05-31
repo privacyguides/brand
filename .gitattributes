@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+.git* text
+*.json text
+*.js text
+*.md text linguist-detectable
+*.{yml,yaml} text
+*.{htm,html} text diff=html
+
+*.svg text linguist-detectable
+*.png binary linguist-detectable
+*.{jpeg,jpg} binary linguist-detectable
