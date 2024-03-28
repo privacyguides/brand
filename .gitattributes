@@ -11,3 +11,4 @@
 *.svg text linguist-detectable
 *.png binary linguist-detectable
 *.{jpeg,jpg} binary linguist-detectable
+*.afdesign binary linguist-detectable

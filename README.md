@@ -8,15 +8,15 @@ This repository contains resources for the *Privacy Guides* brand, such as logos
 ### Horizontal
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/privacyguides/brand/main/SVG/Logo/privacy-guides-logo-dark.svg">
-    <img alt="Privacy Guides" width="500px" src="https://raw.githubusercontent.com/privacyguides/brand/main/SVG/Logo/privacy-guides-logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/privacyguides/brand/main/logos/svg/logo/privacy-guides-logo-dark.svg">
+    <img alt="Privacy Guides" width="500px" src="https://raw.githubusercontent.com/privacyguides/brand/main/logos/svg/logo/privacy-guides-logo.svg">
 </picture>
 
 ### Square
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/privacyguides/brand/main/SVG/Square/pg-mono-dark.svg">
-    <img alt="Privacy Guides" width="128px" src="https://raw.githubusercontent.com/privacyguides/brand/main/SVG/Square/pg-yellow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/privacyguides/brand/main/logos/svg/square/pg-mono-dark.svg">
+    <img alt="Privacy Guides" width="128px" src="https://raw.githubusercontent.com/privacyguides/brand/main/logos/svg/square/pg-yellow.svg">
 </picture>
 
 ## Colors
@@ -26,9 +26,9 @@ This repository contains resources for the *Privacy Guides* brand, such as logos
 
 ## Font
 
-- Header: [Bagnard](/WOFF/bagnard/)
-- Text: [Public Sans](/WOFF/public_sans/)
-- Code: [DM Mono](/WOFF/dm_mono/)
+- Header: [Bagnard](/fonts/Bagnard/)
+- Text: [Public Sans](/fonts/Public%20Sans/)
+- Code: [DM Mono](/fonts/DM%20Mono/)
 
 ## Things to Know
 
